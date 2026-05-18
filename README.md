@@ -49,3 +49,6 @@ C# 콘솔 기반 턴제 RPG 게임입니다.
 # 개발 환경
 - Language: C#
 - Platform: Console
+
+# 개발 기간
+- 약 4일간 진행한 개인 프로젝트입니다.
