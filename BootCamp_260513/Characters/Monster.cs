@@ -19,6 +19,7 @@ namespace RPGGame.Characters
             CharacterData = MData;
             // 초기화
             Init();
+            // 테스트
         }
     }
 }
