@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhF5jPeTrdw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nhg\\source\\repos\\BootCamp_260513\\BootCamp_260513\\BootCamp_260513.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nhg\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.8\\microsoft.win32.systemevents.10.0.8.nupkg.sha512",
+    "C:\\Users\\nhg\\.nuget\\packages\\system.drawing.common\\10.0.8\\system.drawing.common.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
